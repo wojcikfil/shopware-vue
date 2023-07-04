@@ -73,6 +73,9 @@ export default defineComponent({
 </script>
 
 <style>
+.search-container {
+  padding: 20px 0;
+}
 @media (min-width: 768px) {
   .search-container {
     padding: 100px 0;
